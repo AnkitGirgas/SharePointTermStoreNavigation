@@ -6,11 +6,11 @@ For eg,
 
 *Term1
 
-  -Term 1.1
-  
-      -Term 1.1.1
+    -Term 1.1
+    
+        -Term 1.1.1
       
 *Term2
 
-  -Term 2.1
+    -Term 2.1
 
